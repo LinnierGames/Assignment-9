@@ -13,6 +13,8 @@ creature.cpp
 
 #include "creature.h"
 
+#include <stdlib.h>
+
 
 namespace cs_creature
 {
